@@ -1,0 +1,7 @@
+[evidence]
+site_url = "https://sasha-gonch.github.io/CSCI40/"
+archive_url = "https://sasha-gonch.github.io/CSCI40/"
+backlink_urls = [
+  "https://sasha-gonch.github.io/CSCI40/cat.html",
+  "https://sasha-gonch.github.io/CSCI40/leonberger.html",
+]
