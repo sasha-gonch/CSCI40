@@ -19,6 +19,15 @@ a:hover {
   background-color: yellow;
   font-size: 18px;
 }
+.footer-link {
+  margin: 8px 0;
+  font-size: 0.9em;
+  color: #555;
+}
+.site-nav {
+  list-style: none;
+  padding: 0;
+}
 
 /* ID selector */
 #goober {
