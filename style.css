@@ -1,13 +1,18 @@
-/* Add your stules here */
+/* Add your styles here */
 p {
     color: rgb(54, 54, 219);
     font-size: 20px;
 }
+ a { color: green; }
 
 /* Class selectors */
 .bold {
     font-weight: bold;
     font-size: 20px;
+}
+a:hover {
+  background-color: yellow;
+  font-size: 18px;
 }
 
 /* ID selector */
